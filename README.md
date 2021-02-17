@@ -1,8 +1,6 @@
 # Cupid-Bot
 Discord bot with marriage system. 
 
-More information located at: https://top.gg/bot/613044146952732682
-
 
 Things to do:
 1. make pillow work with going to fonts dir to get font
